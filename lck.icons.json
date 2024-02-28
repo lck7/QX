@@ -3,6 +3,14 @@
   "description": "收集一些自己脚本用到的图标",
   "icons": [
     {
+      "name": "BBC_iPlayer.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/BBC_iPlayer.png"
+    },
+    {
+      "name": "App_Store.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/App_Store.png"
+    },
+    {
       "name": "ala.png",
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/ala.png"
     },
@@ -11,16 +19,56 @@
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Zsfc.png"
     },
     {
+      "name": "Auto.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Auto.png"
+    },
+    {
+      "name": "Airport.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Airport.png"
+    },
+    {
+      "name": "Asia_Map.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Asia_Map.png"
+    },
+    {
+      "name": "AU.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/AU.png"
+    },
+    {
       "name": "Ffit.png",
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Ffit.png"
+    },
+    {
+      "name": "CA.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/CA.png"
+    },
+    {
+      "name": "Cryptocurrency.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Cryptocurrency.png"
     },
     {
       "name": "Linovel.png",
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Linovel.png"
     },
     {
+      "name": "Bahamut.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Bahamut.png"
+    },
+    {
+      "name": "Available.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Available.png"
+    },
+    {
       "name": "Sfsy.png",
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Sfsy.png"
+    },
+    {
+      "name": "Apple_Fitness+.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Apple_Fitness+.png"
+    },
+    {
+      "name": "BGP.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/BGP.png"
     },
     {
       "name": "Chery.png",
@@ -35,36 +83,140 @@
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Quark.png"
     },
     {
+      "name": "Brown.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Brown.png"
+    },
+    {
       "name": "Switch.png",
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Switch.png"
+    },
+    {
+      "name": "AfreecaTV.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/AfreecaTV.png"
+    },
+    {
+      "name": "deezer_2.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/deezer_2.png"
     },
     {
       "name": "Hsay.png",
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Hsay.png"
     },
     {
+      "name": "AR.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/AR.png"
+    },
+    {
       "name": "Hax.png",
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Hax.png"
+    },
+    {
+      "name": "CreamData.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/CreamData.png"
+    },
+    {
+      "name": "Blinkload.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Blinkload.png"
+    },
+    {
+      "name": "bilibili.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/bilibili.png"
+    },
+    {
+      "name": "Africa_Map.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Africa_Map.png"
     },
     {
       "name": "mtwm.png",
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/mtwm.png"
     },
     {
+      "name": "Australia.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Australia.png"
+    },
+    {
+      "name": "Alibaba.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Alibaba.png"
+    },
+    {
+      "name": "DE.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/DE.png"
+    },
+    {
+      "name": "Apple.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Apple.png"
+    },
+    {
+      "name": "Back.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Back.png"
+    },
+    {
+      "name": "Amazon_1.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Amazon_1.png"
+    },
+    {
+      "name": "AmyTelecom.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/AmyTelecom.png"
+    },
+    {
+      "name": "DAZN_1.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/DAZN_1.png"
+    },
+    {
+      "name": "Cryptocurrency_1.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Cryptocurrency_1.png"
+    },
+    {
       "name": "Stlxz.png",
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Stlxz.png"
+    },
+    {
+      "name": "BBC_iPlayer_1.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/BBC_iPlayer_1.png"
     },
     {
       "name": "bgps.png",
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/bgps.png"
     },
     {
+      "name": "Apeach.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Apeach.png"
+    },
+    {
       "name": "aly.png",
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/aly.png"
     },
     {
+      "name": "Direct.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Direct.png"
+    },
+    {
+      "name": "Dinosaur.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Dinosaur.png"
+    },
+    {
       "name": "yhcs.png",
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/yhcs.png"
+    },
+    {
+      "name": "AdWhite.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/AdWhite.png"
+    },
+    {
+      "name": "Apple_TV.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Apple_TV.png"
+    },
+    {
+      "name": "Blinkload_1.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Blinkload_1.png"
+    },
+    {
+      "name": "CN.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/CN.png"
+    },
+    {
+      "name": "AdBlack.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/AdBlack.png"
     },
     {
       "name": "Wbzj.png",
@@ -91,6 +243,10 @@
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Hdl.png"
     },
     {
+      "name": "CC.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/CC.png"
+    },
+    {
       "name": "Ysf.png",
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Ysf.png"
     },
@@ -99,8 +255,20 @@
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Hapi.png"
     },
     {
+      "name": "Domestic.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Domestic.png"
+    },
+    {
       "name": "Mtmc.png",
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Mtmc.png"
+    },
+    {
+      "name": "Disney+.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Disney+.png"
+    },
+    {
+      "name": "Apple_Fitness+_Letter.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Apple_Fitness+_Letter.png"
     },
     {
       "name": "Hxek.png",
@@ -111,12 +279,24 @@
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Glados.png"
     },
     {
+      "name": "Available_1.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Available_1.png"
+    },
+    {
+      "name": "DAZN.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/DAZN.png"
+    },
+    {
       "name": "Midea.png",
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Midea.png"
     },
     {
       "name": "Hldc.png",
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Hldc.png"
+    },
+    {
+      "name": "Bamboo.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Bamboo.png"
     },
     {
       "name": "Ddnsto.png",
@@ -131,8 +311,28 @@
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Xdm.png"
     },
     {
+      "name": "Cat.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Cat.png"
+    },
+    {
       "name": "Smzdm.png",
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Smzdm.png"
+    },
+    {
+      "name": "Amazon.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Amazon.png"
+    },
+    {
+      "name": "Clubhouse_2.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Clubhouse_2.png"
+    },
+    {
+      "name": "Apple_1.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Apple_1.png"
+    },
+    {
+      "name": "deezer.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/deezer.png"
     },
     {
       "name": "Dmzj.png",
@@ -141,6 +341,22 @@
     {
       "name": "Tyyp.png",
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Tyyp.png"
+    },
+    {
+      "name": "Disney.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Disney.png"
+    },
+    {
+      "name": "Blackhole.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Blackhole.png"
+    },
+    {
+      "name": "bilibili_2.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/bilibili_2.png"
+    },
+    {
+      "name": "discovery+.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/discovery+.png"
     },
     {
       "name": "picc.png",
@@ -155,12 +371,44 @@
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Firework.png"
     },
     {
+      "name": "Clubhouse_1.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Clubhouse_1.png"
+    },
+    {
+      "name": "AmyTelecom_1.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/AmyTelecom_1.png"
+    },
+    {
+      "name": "BosLife.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/BosLife.png"
+    },
+    {
+      "name": "China.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/China.png"
+    },
+    {
+      "name": "Disney+_2.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Disney+_2.png"
+    },
+    {
+      "name": "Argentina.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Argentina.png"
+    },
+    {
       "name": "Cwm.png",
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Cwm.png"
     },
     {
+      "name": "All4.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/All4.png"
+    },
+    {
       "name": "wyyyy.png",
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/wyyyy.png"
+    },
+    {
+      "name": "bilibili_1.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/bilibili_1.png"
     },
     {
       "name": "Cqxhsd.png",
@@ -175,12 +423,36 @@
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Iqiyi.png"
     },
     {
+      "name": "Apple_News.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Apple_News.png"
+    },
+    {
+      "name": "Cryptocurrency_3.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Cryptocurrency_3.png"
+    },
+    {
+      "name": "Bypass.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Bypass.png"
+    },
+    {
       "name": "Bnmdhg.png",
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Bnmdhg.png"
     },
     {
+      "name": "BR.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/BR.png"
+    },
+    {
+      "name": "BBC_iPlayer_2.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/BBC_iPlayer_2.png"
+    },
+    {
       "name": "Htx.png",
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Htx.png"
+    },
+    {
+      "name": "Apple_2.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Apple_2.png"
     },
     {
       "name": "Bwcj.png",
@@ -189,6 +461,10 @@
     {
       "name": "Kbj.png",
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Kbj.png"
+    },
+    {
+      "name": "Daily.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Daily.png"
     },
     {
       "name": "Xbox.png",
@@ -203,12 +479,32 @@
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Jtc.png"
     },
     {
+      "name": "Cloudflare.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Cloudflare.png"
+    },
+    {
       "name": "yuchenios.png",
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/yuchenios.png"
     },
     {
+      "name": "AIA.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/AIA.png"
+    },
+    {
       "name": "sony.png",
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/sony.png"
+    },
+    {
+      "name": "deezer_1.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/deezer_1.png"
+    },
+    {
+      "name": "Bot.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Bot.png"
+    },
+    {
+      "name": "AGA.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/AGA.png"
     },
     {
       "name": "talkatone.png",
@@ -219,12 +515,40 @@
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Adjd.png"
     },
     {
+      "name": "bilibili_4.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/bilibili_4.png"
+    },
+    {
+      "name": "America_Map.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/America_Map.png"
+    },
+    {
       "name": "Wzyd.png",
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Wzyd.png"
     },
     {
       "name": "Gddt.png",
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Gddt.png"
+    },
+    {
+      "name": "Discord.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Discord.png"
+    },
+    {
+      "name": "5iTV.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/5iTV.png"
+    },
+    {
+      "name": "Brazil.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Brazil.png"
+    },
+    {
+      "name": "Clubhouse.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Clubhouse.png"
+    },
+    {
+      "name": "bilibili_3.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/bilibili_3.png"
     },
     {
       "name": "Zmhy.png",
@@ -235,8 +559,36 @@
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Zxcs.png"
     },
     {
+      "name": "Disney+_1.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Disney+_1.png"
+    },
+    {
       "name": "Nestle.png",
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Nestle.png"
+    },
+    {
+      "name": "AbemaTV.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/AbemaTV.png"
+    },
+    {
+      "name": "Apple_Update.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Apple_Update.png"
+    },
+    {
+      "name": "Apple_TV_Plus.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Apple_TV_Plus.png"
+    },
+    {
+      "name": "Cellular.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Cellular.png"
+    },
+    {
+      "name": "Bookpedia.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Bookpedia.png"
+    },
+    {
+      "name": "Apple_Fitness.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Apple_Fitness.png"
     },
     {
       "name": "Blyy.png",
@@ -247,8 +599,52 @@
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/mxbc.png"
     },
     {
+      "name": "Area.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Area.png"
+    },
+    {
+      "name": "Cryptocurrency_2.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Cryptocurrency_2.png"
+    },
+    {
+      "name": "Cydia.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Cydia.png"
+    },
+    {
+      "name": "China_Map.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/China_Map.png"
+    },
+    {
+      "name": "DAZN_2.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/DAZN_2.png"
+    },
+    {
       "name": "Elm.png",
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Elm.png"
+    },
+    {
+      "name": "Apple_Music.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Apple_Music.png"
+    },
+    {
+      "name": "Copilot.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Copilot.png"
+    },
+    {
+      "name": "Azure.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Azure.png"
+    },
+    {
+      "name": "BosLife_1.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/BosLife_1.png"
+    },
+    {
+      "name": "Catnet.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Catnet.png"
+    },
+    {
+      "name": "Advertising.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Advertising.png"
     },
     {
       "name": "Dlm.png",
@@ -257,6 +653,10 @@
     {
       "name": "hzh.png",
       "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/hzh.png"
+    },
+    {
+      "name": "Canada.png",
+      "url": "https://raw.githubusercontent.com/lck7/QX/main/icon/Canada.png"
     }
   ]
 }
